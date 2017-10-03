@@ -1,0 +1,4 @@
+instrumentation:
+  default-excludes: true
+  excludes: ['webpack.config.js', 'src/main.js']
+  include-all-sources: true

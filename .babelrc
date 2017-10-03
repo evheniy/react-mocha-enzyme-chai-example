@@ -1,0 +1,12 @@
+{
+  "presets": ["env", "react"],
+  "plugins": [
+	"transform-remove-strict-mode",
+	"transform-class-properties",
+	["transform-object-rest-spread",
+	  {
+		"useBuiltIns": true
+	  }
+	]
+  ]
+}
