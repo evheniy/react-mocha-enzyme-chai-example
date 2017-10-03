@@ -19,3 +19,5 @@ Don't forget to [install node.js](https://nodejs.org/uk/download/package-manager
 ## How to run in browser
 
     npm start
+
+And open [http://localhost:8080/](http://localhost:8080) to see results.
