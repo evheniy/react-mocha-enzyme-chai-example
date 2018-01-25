@@ -18,7 +18,7 @@ export default class Avatar extends Component {
         <p>
           <em>{this.props.email}</em>
         </p>
-        <img src={this.props.src} className="img-rounded" alt={''} />
+        <img src={this.props.src} className="img-rounded" alt="" />
       </div>
     );
   }
